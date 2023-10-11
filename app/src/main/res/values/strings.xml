@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task_24_HomeTask_Animation</string>
+    <string name="placeholder">placeholder</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="todo">TODO</string>
+    <string name="position">Position</string>
+    <string name="name">Name</string>
+    <string name="biography">Biography</string>
+</resources>
